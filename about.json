@@ -1,7 +1,4 @@
 {
-  "name": "Wikified Posts",
+  "name": "Wiki title css",
   "component": true,
-  "license_url": "https://github.com/nathan-nz/discourse-wikified-posts/blob/master/LICENSE",
-  "about_url": "https://meta.discourse.org/t/wikified-posts-component/199492",
-  "authors": "nathan-nz"
 }
