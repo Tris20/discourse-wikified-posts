@@ -10,6 +10,7 @@
 // Add Wiki Text
     .post-info.edits .wiki::before {
         content: "#{$Wiki_added_text}";
+        color: #e45735;
         margin-right: 5px;
         font-weight: bold;
     }  
